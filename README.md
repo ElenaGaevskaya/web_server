@@ -31,10 +31,10 @@
 
 Добавьте возможность запрашивать только определенные типы файлов (.html, .css, .js и так далее). При запросе неразрешенного типа, верните ошибку 403.
 
-![screenshot](web_screen/6.png)
-![screenshot](web_screen/10.png)
+![screenshot](web_screen/8.png)
+
 
 Реализуйте поддержку бинарных типов данных, в частночти, картинок.
 
-![screenshot](web_screen/8.png)
-
+![screenshot](web_screen/6.png)
+![screenshot](web_screen/10.png)
